@@ -1,0 +1,1 @@
+# mapping_word_to_emoji.
